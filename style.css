@@ -1,0 +1,42 @@
+body{
+    background-color: white;
+}
+.border-examples {
+      margin-bottom: 20px;
+      padding: 10px;
+    }
+    .dotted-border {
+      border: 20px dotted black;
+      border-width: 20px;
+      border-radius: 5px;
+      padding: 5px;
+      text-align: center;
+    }
+    .dashed-border {
+      border: 20px dashed black;
+      border-width: 20px;
+      border-radius: 5px;
+      padding: 5px;
+       text-align: center;
+    }
+    .double-border {
+      border: 40px double black;
+      border-width: 20px;
+      border-radius: 5px;
+      padding: 5px;
+       text-align: center;
+    }
+    .groove-border {
+      border: 40px groove black;
+      border-width: 20px;
+      border-radius: 5px;
+      padding: 5px;
+       text-align: center;
+    }
+    .ridge-border {
+      border: 40px ridge black;
+      border-width: 20px;
+      border-radius: 5px;
+      padding: 5px;
+       text-align: center;
+    }
